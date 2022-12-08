@@ -14,7 +14,7 @@ Using DAX we created new measures as well.
 
 Findings Unicorn data Analysis.
 
-There are around 1074 Unicorns,with # 46 countries  Paarticipated.
+There are around 1074 Unicorns,with # 46 countries  Participated.
 
 US contributed highest followed by China,India, Uk and German..... Bermuda has the lowest funding
 
