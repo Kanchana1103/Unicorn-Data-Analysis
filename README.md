@@ -14,7 +14,7 @@ Using DAX we created new measures as well.
 
 Findings Unicorn data Analysis.
 
-There are around 1074 Unicorns,with # 46 countries  Participated.
+There are around 1074 Unicorns,with # 46 countries participated.
 
 US contributed highest followed by China,India, Uk and German..... Bermuda has the lowest funding
 
@@ -29,6 +29,7 @@ In India ,number of Unicorns viz  CRED,Meesho, Swiggy,OYO Rooms,Dream11 Razorpay
 Bangalore maximum number of Unicorns
 
 Return on Investment :Zappier is having the highest ROI.
+
 
 
 
