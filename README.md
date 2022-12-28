@@ -2,8 +2,9 @@
 
 About the Project :
 Unicorn :In Business terminology an Unicorn is company with turn over of US $ 1 Billion.
+
 The data set we extracted it from the Maven Analytics,
-this data set gives us the over all view of the number of Unicorns,funding,valution,countries  different industris participated.
+this data set gives us the over all view of the number of Unicorns,funding,valution,countries,different industries participated.
 
 Tools Used : Power Query,Power BI
 
@@ -12,7 +13,7 @@ We extracted the data and did cleaning and transformation of few of the columns 
 Using DAX we created new measures as well.
 
 
-Findings Unicorn data Analysis.
+Key findings Unicorn data Analysis.
 
 There are around 1074 Unicorns,with # 46 countries participated.
 
